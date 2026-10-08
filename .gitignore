@@ -1,2 +1,5 @@
 # Local Netlify folder
 .netlify
+
+# Unpublished drafts - never deploy these
+nolostai-site/articles/pending/
